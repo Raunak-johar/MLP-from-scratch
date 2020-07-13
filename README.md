@@ -1,2 +1,2 @@
 # MLP-from-scratch
-Implemention of Multilayer Perceptron from scratch using NumPy 
+Implementation of Multilayer Perceptron from scratch using NumPy 
